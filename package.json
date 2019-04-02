@@ -1,0 +1,26 @@
+{
+  "name": "typedoc-test",
+  "version": "1.0.0",
+  "description": "Test Repo for replicating a bug in TypeDoc functionality",
+  "main": "dist/index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "typedoc": "^0.14.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiri-vyc/typedoc-test.git"
+  },
+  "author": "Jiri Vycpalek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiri-vyc/typedoc-test/issues"
+  },
+  "homepage": "https://github.com/jiri-vyc/typedoc-test#readme"
+}
